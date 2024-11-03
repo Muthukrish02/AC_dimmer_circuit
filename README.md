@@ -24,6 +24,8 @@ AC bulb
 Additional passive components (wires, resistors, etc.)
 # Circuit Diagram
 Refer to the circuit diagram provided above for detailed wiring instructions.
+![image](https://github.com/user-attachments/assets/f688eb7d-a933-4249-82fa-2a157c53e507)
+
 
 # Setup and Wiring
 Connect the Light Sensor to an analog input on the Arduino to monitor ambient light levels.
