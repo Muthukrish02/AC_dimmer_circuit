@@ -1,3 +1,4 @@
+![Screenshot 2024-11-03 135533](https://github.com/user-attachments/assets/ca3e39ff-a006-48db-aa57-aa9090d53a44)
 # AC_dimmer_circuit
 AC Dimmer Circuit with Arduino
 This project involves designing an AC dimmer circuit as part of a Home Energy Management System (HEMS), which automatically adjusts the brightness of an AC bulb based on the ambient light. The system integrates an Arduino microcontroller, light sensor, potentiometer, and an AC dimmer module (ACDM1).
